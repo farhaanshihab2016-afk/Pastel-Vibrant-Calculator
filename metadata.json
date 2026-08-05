@@ -1,0 +1,6 @@
+{
+  "name": "Pastel Vibrant Calculator",
+  "description": "An advanced scientific calculator with pastel aesthetic, history management, custom precision, angle modes, and export/import capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
